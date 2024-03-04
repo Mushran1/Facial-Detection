@@ -1,4 +1,3 @@
-# Face Detection
 # Face Detection in Python using OpenCV
 This repository contains Python scripts for detecting faces in images, videos, and live webcam streams using OpenCV with the haarcascade_frontalface_default.xml classifier.
 
